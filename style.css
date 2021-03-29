@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+p {
+    color: grey;
+}
+
+h2{
+    color: red;
+}
+
+ul li{
+    color:rgb(0, 238, 255);
+  }
+
+  ul li span{
+    color:green;
+  }
+  
